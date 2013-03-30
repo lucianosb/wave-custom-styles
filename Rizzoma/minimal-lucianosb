@@ -4,6 +4,12 @@ a custom style for Rizzoma
 With modifications by @lucianosb
 */
 
+.edit-date {
+    @import url(http://fonts.googleapis.com/css?family=Roboto);
+    font-family: 'Roboto', sans-serif;
+    font-size: 9px;
+}
+
 .root-thread > .blips-container {
     margin: 0;
 }
